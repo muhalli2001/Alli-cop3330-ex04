@@ -20,7 +20,7 @@ public class App {
         System.out.println("Enter adverb:");
         String Adv = adv.nextLine();
 
-        System.out.println("Do you "+ Verb + " your " + Adj + Noun + Adv +" ? " + "That's hilarous !");
+        System.out.println("Do you "+ Verb + " your " + Adj +" "+ Noun +" " + Adv +" ? " + "That's hilarous !");
 
 
     }
